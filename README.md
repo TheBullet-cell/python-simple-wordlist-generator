@@ -20,3 +20,9 @@ Run:
 
 ```bash
 python wordlist_generator.py
+
+```
+
+## Disclaimer
+
+this project is for educational purposes only.
